@@ -1,15 +1,15 @@
 {
-  "main.css": "/k-jasinska/static/css/main.b35828bf.chunk.css",
-  "main.js": "/k-jasinska/static/js/main.5072eaf3.chunk.js",
-  "main.js.map": "/k-jasinska/static/js/main.5072eaf3.chunk.js.map",
-  "runtime~main.js": "/k-jasinska/static/js/runtime~main.dff59cc0.js",
-  "runtime~main.js.map": "/k-jasinska/static/js/runtime~main.dff59cc0.js.map",
-  "static/css/2.29c9964d.chunk.css": "/k-jasinska/static/css/2.29c9964d.chunk.css",
-  "static/js/2.e23f2e18.chunk.js": "/k-jasinska/static/js/2.e23f2e18.chunk.js",
-  "static/js/2.e23f2e18.chunk.js.map": "/k-jasinska/static/js/2.e23f2e18.chunk.js.map",
-  "index.html": "/k-jasinska/index.html",
-  "precache-manifest.6811378475832110a067d19ad1a6ad1a.js": "/k-jasinska/precache-manifest.6811378475832110a067d19ad1a6ad1a.js",
-  "service-worker.js": "/k-jasinska/service-worker.js",
-  "static/css/2.29c9964d.chunk.css.map": "/k-jasinska/static/css/2.29c9964d.chunk.css.map",
-  "static/css/main.b35828bf.chunk.css.map": "/k-jasinska/static/css/main.b35828bf.chunk.css.map"
+  "main.css": "/nawigacja-React-Router/static/css/main.b35828bf.chunk.css",
+  "main.js": "/nawigacja-React-Router/static/js/main.04f7e00e.chunk.js",
+  "main.js.map": "/nawigacja-React-Router/static/js/main.04f7e00e.chunk.js.map",
+  "runtime~main.js": "/nawigacja-React-Router/static/js/runtime~main.3f806e63.js",
+  "runtime~main.js.map": "/nawigacja-React-Router/static/js/runtime~main.3f806e63.js.map",
+  "static/css/2.29c9964d.chunk.css": "/nawigacja-React-Router/static/css/2.29c9964d.chunk.css",
+  "static/js/2.e23f2e18.chunk.js": "/nawigacja-React-Router/static/js/2.e23f2e18.chunk.js",
+  "static/js/2.e23f2e18.chunk.js.map": "/nawigacja-React-Router/static/js/2.e23f2e18.chunk.js.map",
+  "index.html": "/nawigacja-React-Router/index.html",
+  "precache-manifest.997640cacb10f90ef474b79310a7d007.js": "/nawigacja-React-Router/precache-manifest.997640cacb10f90ef474b79310a7d007.js",
+  "service-worker.js": "/nawigacja-React-Router/service-worker.js",
+  "static/css/2.29c9964d.chunk.css.map": "/nawigacja-React-Router/static/css/2.29c9964d.chunk.css.map",
+  "static/css/main.b35828bf.chunk.css.map": "/nawigacja-React-Router/static/css/main.b35828bf.chunk.css.map"
 }

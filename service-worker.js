@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/k-jasinska/precache-manifest.6811378475832110a067d19ad1a6ad1a.js"
+  "/nawigacja-React-Router/precache-manifest.997640cacb10f90ef474b79310a7d007.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/k-jasinska/index.html", {
+workbox.routing.registerNavigationRoute("/nawigacja-React-Router/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
