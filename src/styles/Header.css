@@ -1,0 +1,29 @@
+.navbar {
+    background-color: rgb(14, 10, 10);
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    height: 50px;
+    border-bottom: 1px solid rgb(148, 21, 80);
+}
+
+.form-control {
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid rgb(110, 156, 58);
+    color: #666;
+    background-color: transparent;
+    font-size: 15px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.form-control:focus {
+    border-bottom: 1px solid rgb(110, 156, 58);
+    background-color: transparent;
+    color: #e6e6e6;
+    outline: none;
+    box-shadow: none;
+}
